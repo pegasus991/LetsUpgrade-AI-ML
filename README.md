@@ -1,2 +1,2 @@
 # LetsUpgrade-AI-ML
-assignments of letsupgrade
+daywise assignments of letsupgrade
